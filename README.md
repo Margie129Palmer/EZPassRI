@@ -27,7 +27,7 @@ EZPassRI is a lightweight React application prototype designed to demonstrate a 
 ## Author
 **Name:** Your A/C Name
 **Email:** your-account-email@example.com
-**Website:** EZPassRI
+**Website:** [EZPassRI](https://www.ezpass-ri.com)
 
 
 **Bio:** Your A/C Name is a full-stack developer with strong expertise in JavaScript and React. They have extensive experience building front-end applications, designing modular components, and mentoring junior developers. Passionate about clean code and helpful documentation, they contribute to open-source projects and enjoy collaborating to make software accessible and reliable.
